@@ -1,0 +1,21 @@
+.col-6 {
+    border-color: blue;
+    border-width: 3px;
+
+}
+
+body {
+    background-color: rgb(150, 227, 198);
+}
+
+.container {
+    margin-top: 65px;
+    margin-bottom: 60px;
+}
+
+.card {
+    background-color: rgb(236, 230, 230);
+    margin: 0 auto;
+    float: none;
+    margin-bottom: 10px;
+}
